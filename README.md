@@ -1,2 +1,2 @@
 # Stock Prediction
-The entire code for our Stock Prediction App is in this repo.
+The entire code for our Stock Prediction system using SVM and Linear SVM.
